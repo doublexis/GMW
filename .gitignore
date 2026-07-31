@@ -1,2 +1,9 @@
 node_modules
 .next
+.env
+.env.local
+.env.*
+.vercel
+coverage
+*.tsbuildinfo
+*.log
