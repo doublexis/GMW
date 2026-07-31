@@ -246,7 +246,7 @@ export default function HomePage() {
                 <p className="text-sm uppercase tracking-[0.18em] text-emerald-300">Best in class service</p>
                 <h2 className="mt-4 text-2xl font-semibold text-white">Fast bookings, verified artisans, and secure checkout</h2>
                 <p className="mt-3 text-sm leading-6 text-slate-300">
-                  Start with a trusted professional today, get verified endorsements, and pay only when the job is confirmed.
+                  Connect with a trusted professional today, get verified endorsements, and pay only when the job is confirmed.
                 </p>
               </div>
               <div className="grid gap-4 sm:grid-cols-2">
