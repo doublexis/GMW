@@ -734,11 +734,11 @@ video {
 .max-w-\[min\(100vw-2rem\2c 80rem\)\] {
   max-width: min(100vw - 2rem,80rem);
 }
-.max-w-xl {
-  max-width: 36rem;
-}
 .max-w-md {
   max-width: 28rem;
+}
+.max-w-xl {
+  max-width: 36rem;
 }
 .flex-1 {
   flex: 1 1 0%;

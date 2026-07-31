@@ -170,7 +170,7 @@ export default function HomePage() {
                 Book Verified Artisans with Protected Payments
               </h1>
               <p className="max-w-xl text-lg leading-8 text-slate-300">
-                Find the right professional for every job, from electrical work to painting, with instant search and escrow-backed payment protection.
+                Find the right expert for every job, from electricians to painters and other skilled professionals, with instant search and escrow-backed payment protection.
               </p>
             </div>
 
